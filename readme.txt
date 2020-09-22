@@ -1,0 +1,1 @@
+In this repository, I am adding basic python programs. I used spyder ide for creating programs. And in these programs, #%% is used for creating cells in a single program, so make sure to open these files in spyder ide or the ide in which cell structure of programs is present.
